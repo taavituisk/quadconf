@@ -123,5 +123,3 @@ rateprofile 4
 
 rateprofile 5
 rateprofile 0
-save
-# 
